@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <button id="redButton">Red</button>
+    <button id="blueButton">Blue</button>
+</body>
+
+<script>
+
+    function RedButtonListener(){
+        document.body.style.backgroundColor="red";       
+    }
+
+    function BlueButtonListener(){
+        document.body.style.backgroundColor="blue";
+    }
+
+    var redButton = document.querySelector("#redButton");
+        redButton.addEventListener("click",RedButtonListener);
+
+    var blueButton = document.querySelector("#blueButton");
+        blueButton.addEventListener("click",BlueButtonListener);
+
+</script>
+</html>
