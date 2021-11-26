@@ -1,0 +1,7 @@
+D:\Work\Swabhav\C#\GuitarApp\bin\Debug\GuitarApp.exe.config
+D:\Work\Swabhav\C#\GuitarApp\bin\Debug\GuitarApp.exe
+D:\Work\Swabhav\C#\GuitarApp\bin\Debug\GuitarApp.pdb
+D:\Work\Swabhav\C#\GuitarApp\obj\Debug\GuitarApp.csproj.AssemblyReference.cache
+D:\Work\Swabhav\C#\GuitarApp\obj\Debug\GuitarApp.csproj.CoreCompileInputs.cache
+D:\Work\Swabhav\C#\GuitarApp\obj\Debug\GuitarApp.exe
+D:\Work\Swabhav\C#\GuitarApp\obj\Debug\GuitarApp.pdb
